@@ -129,17 +129,11 @@ Resposta:
 
 ---
 
-## Tecnologias Sugeridas
+## Tecnologias
 
 - **Backend:**
   - Node.js
-  - Express
-
-- **Frontend:**
-  - React ou Vue.js
-
-- **Banco de Dados:**
-  - MongoDB ou PostgreSQL
+  - TypeScript
 
 ---
 
